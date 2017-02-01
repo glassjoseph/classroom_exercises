@@ -1,0 +1,3 @@
+class Bead
+
+end

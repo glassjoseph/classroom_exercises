@@ -1,0 +1,9 @@
+counter = 0
+until counter = 5
+  puts "This is my output line #{counter +1}"
+    
+3.times do
+  puts "this is my output line #{counter+1}"
+
+while counter
+
